@@ -1,4 +1,4 @@
-#Stupid Text
+#StupidText
 
 Turns your text into chaos.
 
