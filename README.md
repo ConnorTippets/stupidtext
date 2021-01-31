@@ -1,3 +1,5 @@
+# stupidtext
+
 Turns your text into chaos.
 
 ```
